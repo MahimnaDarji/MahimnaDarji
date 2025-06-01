@@ -1,34 +1,28 @@
 # 👋 Hi, I'm Mahimna Darji
 
-🎓 Data Science graduate student at Indiana University  
-🔍 Interested in solving real-world problems through machine learning, data visualization, and AI  
-📊 Passionate about building impactful tools across public good, environment, and digital platforms
+💼 Currently working as a Data Scientist at Project 990 Inc. 
+🎓 Data Science graduate student from Indiana University   
+📊 Passionate about machine learning, data visualization, and solving real-world problems through data
 
 ---
 
-## 🧠 What I Do
+## 🧠 Technical Skills
 
-- 🔬 Currently working as a **Data Scientist at Project 990**, analyzing nonprofit financial data and building Tableau dashboards to uncover funding disparities
-- 🌫️ Developed a **real-time AQI prediction system** and optimized machine learning models during my ML internship at ManekTech
-- 🕵️‍♂️ Built an interactive **LAPD Crime Dashboard** using 900k+ records to detect spatial, temporal, and demographic crime trends
-- 🔗 Created a full-stack **Social Network Platform** and a **Book Recommendation System** using Content-Based Filtering
+**Languages:**  
+Python • SQL • R • JavaScript • C • C++ • HTML • CSS
+
+**Databases & Systems:**  
+MongoDB • MySQL • PostgreSQL • SQLite • Azure SQL • AWS
+
+**Data Visualization:**  
+Tableau • Power BI • Matplotlib • Seaborn • Plotly • Redshift
+
+**Frameworks & Tools:**  
+Scikit-learn • TensorFlow • PyTorch • Pandas • FastAPI • React.js • Git • Docker • Apache Hadoop • NLP • CNN
+
+**Certifications:**  
+Cisco Data Science • BCG Data Analytics • AWS Cloud Computing • SQL Fundamentals
 
 ---
 
-## 🛠️ Technologies I Work With
-
-**Languages:** Python, SQL, R, JavaScript, HTML, CSS  
-**ML/AI:** Scikit-learn, TensorFlow, PyTorch, NLP, CNN  
-**Databases:** MongoDB, PostgreSQL, MySQL, SQLite, Azure SQL  
-**Visualization:** Tableau, Power BI, Matplotlib, Plotly  
-**Tools:** Git, Docker, FastAPI, React.js, Pandas
-
----
-
-
-## 📫 Let's Connect
-
-- 📧 [darjimahimnads@gmail.com](mailto:darjimahimnads@gmail.com)  
-
-
-
+📫 [darjimahimnads@gmail.com](mailto:darjimahimnads@gmail.com) 
