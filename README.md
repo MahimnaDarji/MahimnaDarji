@@ -22,9 +22,6 @@ Tableau • Power BI • Matplotlib • Seaborn • Plotly • Redshift
 **Frameworks & Tools:**  
 Scikit-learn • TensorFlow • PyTorch • Pandas • FastAPI • React.js • Git • Docker • Apache Hadoop • NLP • CNN
 
-**Certifications:**  
-Cisco Data Science • BCG Data Analytics • AWS Cloud Computing • SQL Fundamentals
-
 ---
 
 📫 [darjimahimnads@gmail.com](mailto:darjimahimnads@gmail.com) 
