@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Mahimna Darji
 
 💼 Currently working as a Data Scientist at Project 990 Inc. 
+
 🎓 Data Science graduate student from Indiana University   
+
 📊 Passionate about machine learning, data visualization, and solving real-world problems through data
 
 ---
