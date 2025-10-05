@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I’m currently working on:<br>Building scalable ETL pipelines and interactive Tableau dashboards as a Data Scientist at Project 990 Inc., transforming large-scale nonprofit datasets for forecasting and trend analysis.<br><br>🤝 I’m looking to collaborate on:<br>Machine learning, NLP, and data engineering projects involving RAG pipelines, data visualization, or real-world problem-solving using Python and PySpark.<br><br>🌱 I’m currently learning:<br>Cloud-based deployment, FAISS vector search, and orchestration of AI pipelines with Docker and Kubernetes.<br><br>⚡ Fun fact: <br>I love long night drives with no destination - just music and empty roads.
+🧠 I’m currently working on Building scalable ETL pipelines and interactive Tableau dashboards as a Data Scientist at Project 990 Inc., transforming large-scale nonprofit datasets for forecasting and trend analysis.<br><br>🤝 I’m looking to collaborate on Machine Learning, NLP, and data engineering projects involving RAG pipelines, data visualization, or real-world problem-solving using Python and PySpark.<br><br>🌱 I’m currently learning Cloud-based deployment, FAISS vector search, and orchestration of AI pipelines with Docker and Kubernetes.<br><br>⚡ Fun fact: I love long night drives with no destination - just music and empty roads.
 
 
 ## 🌐 Socials:
